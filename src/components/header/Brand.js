@@ -1,9 +1,12 @@
 import brand from "../../img/brand.svg";
+import { Link } from "react-router-dom"
 
 const Brand = () => {
     return(
-      <img src={brand} alt="TecnoShop" title="Tecno Shop"></img> 
+        <Link to="/">
+            <img src={brand} alt="Tienda Hard" title="Tienda Hard"></img>
+        </Link>
     )
 }
 
-export default Brand; 
+export default Brand;

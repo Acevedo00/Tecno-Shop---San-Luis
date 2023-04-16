@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="35px" height="35px" viewBox="0 0 35 35" enable-background="new 0 0 35 35" xml:space="preserve">  <image id="image0" width="35" height="35" x="0" y="0"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAAAAAA7suyFAAAABGdBTUEAALGPC/xhBQAAAAJiS0dE
-AP+Hj8y/AAAAB3RJTUUH5wMZDAMiWnMIHAAAAr5JREFUOMt9lMtrnVUUxX9nn/N96dWkxmCqGGPj
-qzYmSkVJpRREB84ERZRaEToQUf8JBx0LnThQcerASVBH4qAQKmpBTTUTI4VgE0MV27TmdfOds5eD
-m3vzQN2T89jrLNbZryAABf7HgisEEF2U6GwFCqFEIKjjctv/uknhj42qHTsYx1CPeHuXK1ZOX0pB
-gOu/bGP2YAQglRAMx7RXJm4Hvvs7PXvYIS00bqHswoSOaAv5vG4/e1yQnl/bDMGJvhsSwPvWN+2B
-x3KCdGimav41KCj6VAsgPTLDi0fbJXZ9eXv1+sLF/qlOdD+y1selcfm29b6Vz3Dnz5Kk9PDAjQUz
-ekRd7b7yQ31klBLBRu/h0iZY93no2vy8nhwgAjZ0mMureM/VxdqPW37CXIANjHN1EdjP03zN8EQ3
-VGNcW5CV/TzXZjU5VgzAeLRmfkcyAUII+NyyjtedXBsj9/ps2KkxhUAuIc5drx+34AEwv+OusLDq
-O3oEFmm+4dAxxwGSDz544bfpu0uPqETzWNa+TRMjEQNIiSPV0pnKvBdDUzHLmadqDx2M23jVuLe7
-NIYEEOpjBvJOrS5/lvJONcsyVSm1+6nBJsmA4EHh6vdXvCenr5To9fDJoZDTdlNJOn+yTgSogAgV
-VNRPzyi7tiSJ7Jcn6SOFFKtb635rtYjQikz9ok2pSEqRT+eql1/7/IP8wjv1RpVKc+7L1pvPfPLF
-xa8eqskJwMvrafRXLU3ykrK0pfJcHF/WTwfT221pU5LMbTDfuJIX/iKWmKmy95f1xWbRcl3jfQ6g
-9enbuP/Voxz4cEuNS3ofJk6NcMu01Na25tU3AHjluhrJtfX7aYjEt9YkqZGEq/x5buq+qbNLKlJW
-kS+8+8TYifdW5EW5k+YSrNxsx+Fe85jlm001tKvVOjNKe0eLs/sciu298X1n4B/7VbVVT+MNVQAA
-ACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wMy0yNVQxMTowMzozNCswMTowMFEFx68AAAAldEVYdGRh
-dGU6bW9kaWZ5ADIwMjMtMDMtMjVUMTE6MDM6MzQrMDE6MDAgWH8TAAAAAElFTkSuQmCC" />
+<svg xmlns="http://www.w3.org/2000/svg" width="32.491" height="29.061" viewBox="0 0 32.491 29.061">
+  <g id="cart-outline" transform="translate(1.5 1.5)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="1.179" cy="1.179" r="1.179" transform="translate(8.256 23.703)" fill="rgba(38,100,104,0)" stroke="#5b00fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="1.179" cy="1.179" r="1.179" transform="translate(24.768 23.703)" fill="rgba(38,100,104,0)" stroke="#5b00fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_2" data-name="Trazado 2" d="M48,80h4.738l3.554,20.138H75.246" transform="translate(-48 -80)" fill="rgba(38,100,104,0)" stroke="#5b00fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Trazado_3" data-name="Trazado 3" d="M130.369,139.846h18.468a.592.592,0,0,0,.581-.476l2.132-10.661a.592.592,0,0,0-.581-.709H128" transform="translate(-122.077 -124.446)" fill="rgba(38,100,104,0)" stroke="#5b00fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
 </svg>
